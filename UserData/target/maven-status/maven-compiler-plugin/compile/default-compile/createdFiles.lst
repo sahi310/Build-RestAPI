@@ -1,0 +1,5 @@
+com\example\UserData\service\UserService.class
+com\example\UserData\repository\UserRepository.class
+com\example\UserData\controller\UserController.class
+com\example\UserData\UserDataApplication.class
+com\example\UserData\model\User.class
